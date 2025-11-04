@@ -29,8 +29,6 @@ The RFID Verification System provides a secure authentication mechanism using co
 
 ### MFRC522 to LPC1768 Connections
 
-![Hardware Connections](connections.jpg)
-
 | MFRC522 Pin | Function | Connect to LPC1768 | Port | Connector |
 |-------------|----------|-------------------|------|-----------|
 | SDA | Slave Select (NSS) | P0.6 | P0.6 | CNA pin 3 |
